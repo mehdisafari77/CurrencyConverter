@@ -47,7 +47,6 @@ export default class App extends React.Component {
     return (
       <TouchableWithoutFeedback onPress={ Keyboard.dismiss }>
       <SafeAreaView style={styles.container}>
-        
         <View style={styles.screenView}>
           <View style={styles.mainContainer}>
             <View>
