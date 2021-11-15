@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
     },
     screenView: {
       flex: 1,
-      margin: 5
+      margin: 6
     },
     mainContainer: {
       flex: 1
