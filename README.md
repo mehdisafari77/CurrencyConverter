@@ -2,5 +2,4 @@
 A React-Native simple UI currency converter for 9 currencies.
 
 ## Screenshot Of App
-<img src="./src/images/app.png"
-     style="height: 100px, width: 100px" />
+<img src="./src/images/app.png" />
